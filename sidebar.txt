@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yaq:home|Door43 (yaq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yaq|d43-yaq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yaq/archive/master.zip|d43-yaq.zip]]
+
+**Recent Changes**
+{{changes>ns = yaq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yaq|Ethnologue data]]
+
